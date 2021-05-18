@@ -1,3 +1,20 @@
+# Contact Information
+**Karl Larson _yeah baby_**<br/>
+*klarson@larsonipl.com*<br/>
+972-740-4582
+# Technologies
+- [Java](https://docs.oracle.com/en/java/)
+- Javascript
+- HTML
+- [Python](https://docs.python.org/3/)
+- Ruby
+# Items
+1. Item 1
+1. Item 2
+   1. Item 2a
+   1. Item 2b
+1. Item 3
+
 #### Hi there, I'm Karl Larson [karlllarson][website]
 - 👋 Hi, I’m @karlllarson
 - 🌱 I’m currently training on [GitHub Course][website]
