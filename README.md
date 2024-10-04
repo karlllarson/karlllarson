@@ -13,7 +13,8 @@
 * Item 2
   * Item 2a
   * Item
-# Ordered Items
+# Ordered Item
+s
 1. Item 1
 1. Item 2
    1. Item 2a
@@ -26,7 +27,7 @@ red | 0xff0000 | don't like it
 blue | 0x00ff00 | kinda like it
 green | 0x0000ff | my color
 
-#### Hi there, I'm Karl Larson [karlllarson][website]
+#### Hi there, I'm Karl Larson [karlllarson](https://www.facebook.com/LarsonIpPc)
 - 👋 Hi, I’m @karlllarson
 - 🌱 I’m currently training on [GitHub Course][website]
 
@@ -37,6 +38,7 @@ karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ``
-some code
+for (i=0; i<5; i++)
+  console.log(i);
 ``
 [website]: https://www.facebook.com/LarsonIpPc
